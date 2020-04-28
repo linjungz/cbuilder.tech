@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cbuilder.tech/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cbuilder.tech/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cbuilder.tech/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cbuilder.tech/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cbuilder.tech/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cbuilder.tech/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cbuilder.tech/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cbuilder.tech/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cbuilder.tech/"
+                />
+  </url>
+  
+</urlset>

@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cbuilder.tech/categories/</loc>
+    <loc>http://cbuilder.tech/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cbuilder.tech/en/categories/"
+                href="http://cbuilder.tech/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cbuilder.tech/categories/"
+                href="http://cbuilder.tech/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cbuilder.tech/tags/</loc>
+    <loc>http://cbuilder.tech/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cbuilder.tech/en/tags/"
+                href="http://cbuilder.tech/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cbuilder.tech/tags/"
+                href="http://cbuilder.tech/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://cbuilder.tech/</loc>
+    <loc>http://cbuilder.tech/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cbuilder.tech/en/"
+                href="http://cbuilder.tech/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://cbuilder.tech/"
+                href="http://cbuilder.tech/"
                 />
   </url>
   

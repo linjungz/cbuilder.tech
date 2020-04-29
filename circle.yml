@@ -3,3 +3,4 @@ deployment:
     branch: master
     commands:
       - scp -r * linjungz@cbuilder.tech:/usr/share/nginx/circleci
+

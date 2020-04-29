@@ -2,4 +2,4 @@ deployment:
   production:
     branch: master
     commands:
-      - scp -r * linjungz@106.53.32.129:/usr/share/nginx/circleci
+      - scp -r * linjungz@cbuilder.tech:/usr/share/nginx/circleci
